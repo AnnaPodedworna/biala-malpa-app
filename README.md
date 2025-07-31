@@ -29,7 +29,7 @@ Funkcje:
 
 
 `BeerContext.jsx`
-Context API dla zarządzania listą piw (dodawanie, aktualizacja, wyszukiwanie). Dane inicjalizowane z lokalnego mocka (100 piw z opisami i etykietami).
+Context API dla zarządzania listą piw (dodawanie, aktualizacja, wyszukiwanie). Dane inicjalizowane z lokalnego mocka (kilkadziesiąt piw z opisami i etykietami).
 
 
 # Funkcjonalności
