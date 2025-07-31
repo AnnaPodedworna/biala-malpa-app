@@ -1,0 +1,404 @@
+{
+  "beers": [
+    {
+      "name": "Pan IPAni",
+      "brewery": "Browar Trzech Kumpli",
+      "style": "Sour",
+      "abv": 4.6,
+      "description": "Zbalansowane, orzeźwiające, idealne na lato. W aromacie dominują akcenty cytrusów, gruszek i mango przeplatane delikatnymi nutami kwiatowymi. Jasnozłote, lekko zamglone. W smaku cytrusowe, treściwe i umiarkowanie goryczkowe.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Misty IPA",
+      "brewery": "Browar Trzech Kumpli",
+      "style": "Lager",
+      "abv": 6.1,
+      "description": "Delikatna słodycz, wyraźna nuta owocowa.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Białe",
+      "brewery": "Browar Trzech Kumpli",
+      "style": "Porter",
+      "abv": 6.1,
+      "description": "Aromatyczne piwo z nutami cytrusów i żywicy.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Saison",
+      "brewery": "Browar Trzech Kumpli",
+      "style": "Barleywine",
+      "abv": 9.1,
+      "description": "Nowoczesna interpretacja klasycznego stylu.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Pils",
+      "brewery": "Browar Trzech Kumpli",
+      "style": "Porter",
+      "abv": 4.1,
+      "description": "Bogaty smak słodów z wyczuwalną palonością.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "American Wheat",
+      "brewery": "Browar Trzech Kumpli",
+      "style": "Porter",
+      "abv": 6.7,
+      "description": "Lekka goryczka, chmiel amerykański w aromacie.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Rowing Jack",
+      "brewery": "Browar Stu Mostów",
+      "style": "Pils",
+      "abv": 5.1,
+      "description": "Eksperymentalne piwo z limitowanej serii.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Crazy Mike",
+      "brewery": "Browar Stu Mostów",
+      "style": "Porter",
+      "abv": 4.1,
+      "description": "Owocowe, lekko kwaśne, bardzo pijalne.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Red AIPA",
+      "brewery": "Browar Trzech Kumpli",
+      "style": "IPA",
+      "abv": 7.2,
+      "description": "Nowoczesna interpretacja klasycznego stylu.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Smoked Baltic Porter",
+      "brewery": "Browar Artezan",
+      "style": "Pils",
+      "abv": 5.8,
+      "description": "Owocowe, lekko kwaśne, bardzo pijalne.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Imperial Stout",
+      "brewery": "Browar Pinta",
+      "style": "NEIPA",
+      "abv": 5.7,
+      "description": "Delikatna słodycz, wyraźna nuta owocowa.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Tropical Milkshake",
+      "brewery": "Browar Kingpin",
+      "style": "Stout",
+      "abv": 9.5,
+      "description": "Aromatyczne piwo z nutami cytrusów i żywicy.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Cherry Berliner Weisse",
+      "brewery": "Browar Spółdzielczy",
+      "style": "Porter",
+      "abv": 6.5,
+      "description": "Bogaty smak słodów z wyczuwalną palonością.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Blackcurrant Sour",
+      "brewery": "Browar Pinta",
+      "style": "Sour",
+      "abv": 8.4,
+      "description": "Zbalansowane, orzeźwiające, idealne na lato.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Nelson IPA",
+      "brewery": "Browar Stu Mostów",
+      "style": "Barleywine",
+      "abv": 6.7,
+      "description": "Pełne ciała, aksamitne z dodatkiem owoców.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "West Coast DIPA",
+      "brewery": "Browar Raduga",
+      "style": "Lager",
+      "abv": 6.0,
+      "description": "Bogaty smak słodów z wyczuwalną palonością.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Peach Gose",
+      "brewery": "Browar Nepomucen",
+      "style": "Lager",
+      "abv": 9.3,
+      "description": "Aromatyczne piwo z nutami cytrusów i żywicy.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Dry Hopped Pils",
+      "brewery": "Browar Nepomucen",
+      "style": "Gose",
+      "abv": 8.4,
+      "description": "Pełne ciała, aksamitne z dodatkiem owoców.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Farmhouse Ale",
+      "brewery": "Browar Widawa",
+      "style": "Weizen",
+      "abv": 7.6,
+      "description": "Lekka goryczka, chmiel amerykański w aromacie.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Weizenbock",
+      "brewery": "Browar Zakładowy",
+      "style": "Weizen",
+      "abv": 7.3,
+      "description": "Intensywnie nachmielone, wyraźna goryczka.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Mango APA",
+      "brewery": "Browar Pinta",
+      "style": "APA",
+      "abv": 5.4,
+      "description": "Eksperymentalne piwo z limitowanej serii.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Coffee Stout",
+      "brewery": "Browar Stu Mostów",
+      "style": "Sour",
+      "abv": 7.5,
+      "description": "Zbalansowane, orzeźwiające, idealne na lato.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Czarna Dziura",
+      "brewery": "Browar Zakładowy",
+      "style": "Porter",
+      "abv": 8.9,
+      "description": "Zbalansowane, orzeźwiające, idealne na lato.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Daisy Cutter",
+      "brewery": "Browar Pinta",
+      "style": "Sour",
+      "abv": 4.6,
+      "description": "Intensywnie nachmielone, wyraźna goryczka.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Pacific Pale Ale",
+      "brewery": "Browar Artezan",
+      "style": "Lager",
+      "abv": 4.8,
+      "description": "Eksperymentalne piwo z limitowanej serii.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Polish Lager",
+      "brewery": "Browar Trzech Kumpli",
+      "style": "Sour",
+      "abv": 7.2,
+      "description": "Nowoczesna interpretacja klasycznego stylu.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Lublin to Dublin",
+      "brewery": "Browar Raduga",
+      "style": "APA",
+      "abv": 4.0,
+      "description": "Owocowe, lekko kwaśne, bardzo pijalne.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Żytni Pale Ale",
+      "brewery": "Browar Spółdzielczy",
+      "style": "Porter",
+      "abv": 8.4,
+      "description": "Delikatna słodycz, wyraźna nuta owocowa.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Modern Lager",
+      "brewery": "Browar Nepomucen",
+      "style": "IPA",
+      "abv": 5.3,
+      "description": "Delikatna słodycz, wyraźna nuta owocowa.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Fruit IPA",
+      "brewery": "Browar Widawa",
+      "style": "NEIPA",
+      "abv": 4.9,
+      "description": "Bogaty smak słodów z wyczuwalną palonością.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Dark Mild",
+      "brewery": "Browar Stu Mostów",
+      "style": "IPA",
+      "abv": 5.3,
+      "description": "Bogaty smak słodów z wyczuwalną palonością.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "NEIPA 2023",
+      "brewery": "Browar Artezan",
+      "style": "Lager",
+      "abv": 9.2,
+      "description": "Lekka goryczka, chmiel amerykański w aromacie.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Sour Mango",
+      "brewery": "Browar Spółdzielczy",
+      "style": "NEIPA",
+      "abv": 8.8,
+      "description": "Owocowe, lekko kwaśne, bardzo pijalne.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Tajemniczy Ogród",
+      "brewery": "Browar Artezan",
+      "style": "Porter",
+      "abv": 7.3,
+      "description": "Delikatna słodycz, wyraźna nuta owocowa.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Klasyczny Porter",
+      "brewery": "Browar Artezan",
+      "style": "Sour",
+      "abv": 9.6,
+      "description": "Intensywnie nachmielone, wyraźna goryczka.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Wiśniowy Kwas",
+      "brewery": "Browar Spółdzielczy",
+      "style": "Lager",
+      "abv": 9.5,
+      "description": "Zbalansowane, orzeźwiające, idealne na lato.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Karmelowe ALE",
+      "brewery": "Browar Spółdzielczy",
+      "style": "Pils",
+      "abv": 4.6,
+      "description": "Bogaty smak słodów z wyczuwalną palonością.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Złoty Koźlak",
+      "brewery": "Browar Spółdzielczy",
+      "style": "NEIPA",
+      "abv": 4.1,
+      "description": "Nowoczesna interpretacja klasycznego stylu.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Wędzony Grodzisz",
+      "brewery": "Browar Spółdzielczy",
+      "style": "Porter",
+      "abv": 6.7,
+      "description": "Lekka goryczka, chmiel amerykański w aromacie.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Aksamitna Pszenica",
+      "brewery": "Browar Kingpin",
+      "style": "Pils",
+      "abv": 5.6,
+      "description": "Lekka goryczka, chmiel amerykański w aromacie.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Tajemnica Lasu",
+      "brewery": "Browar Widawa",
+      "style": "Pils",
+      "abv": 8.4,
+      "description": "Nowoczesna interpretacja klasycznego stylu.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Piwny Łowca",
+      "brewery": "Browar Artezan",
+      "style": "Gose",
+      "abv": 8.3,
+      "description": "Owocowe, lekko kwaśne, bardzo pijalne.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Browarnik",
+      "brewery": "Browar Pinta",
+      "style": "Barleywine",
+      "abv": 7.1,
+      "description": "Pełne ciała, aksamitne z dodatkiem owoców.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Złoto Bałtyku",
+      "brewery": "Browar Nepomucen",
+      "style": "Gose",
+      "abv": 7.4,
+      "description": "Owocowe, lekko kwaśne, bardzo pijalne.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Nocna Mgła",
+      "brewery": "Browar Artezan",
+      "style": "Pils",
+      "abv": 6.1,
+      "description": "Eksperymentalne piwo z limitowanej serii.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Dymna Ciemność",
+      "brewery": "Browar Nepomucen",
+      "style": "IPA",
+      "abv": 8.0,
+      "description": "Eksperymentalne piwo z limitowanej serii.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Poranna Kawa",
+      "brewery": "Browar Artezan",
+      "style": "IPA",
+      "abv": 4.8,
+      "description": "Nowoczesna interpretacja klasycznego stylu.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Letni Zefir",
+      "brewery": "Browar Artezan",
+      "style": "Barleywine",
+      "abv": 6.1,
+      "description": "Zbalansowane, orzeźwiające, idealne na lato.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Rześki Lager",
+      "brewery": "Browar Widawa",
+      "style": "NEIPA",
+      "abv": 9.5,
+      "description": "Zbalansowane, orzeźwiające, idealne na lato.",
+      "image": "/images/kafelek.png"
+    },
+    {
+      "name": "Cytrusowy Raj",
+      "brewery": "Browar Kingpin",
+      "style": "Sour",
+      "abv": 6.2,
+      "description": "Owocowe, lekko kwaśne, bardzo pijalne.",
+      "image": "/images/kafelek.png"
+    }
+  ]
+}
